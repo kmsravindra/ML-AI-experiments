@@ -1,1 +1,1 @@
-
+Event sequence prediction using weighting averaging method ( The task it so predict subsequent tests the patient would undergo given the previous history of tests that a particular patient has already underwent)
